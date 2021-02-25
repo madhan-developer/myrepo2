@@ -1,8 +1,7 @@
 This is my first page
 
 load 1
-load2
-
+load  2
 load3
 
 Thanks
